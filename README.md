@@ -1,5 +1,5 @@
 # Variance-Soft-Shadow-Mapping
-A simple implementation of SM, PCF, PCSS and VSSM
+A simple implementation of SM, PCF, PCSS and VSSM  
 ![image](https://github.com/Oitron/Variance-Soft-Shadow-Mapping/tree/main/imgs/demo.gif)  
 
 ****
